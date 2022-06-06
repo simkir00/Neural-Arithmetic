@@ -13,7 +13,7 @@ __*Understanding neural networks for arithmetic tasks*__
 
 #### Experiments review
 ##### Experiment I: MLP with different activations
-Extrapolation failure result:
+Extrapolation failure:
 ![](./report/images/mlp_experiment.png)
 *Train data: [-5; 5], Test data: [-20; 20]*  
 *More activation functions in future updates*
