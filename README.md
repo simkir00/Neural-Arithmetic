@@ -1,5 +1,5 @@
 ### Neural Arithmetic  
-__*Understanding neural networks arithmetics*__
+__*Understanding neural networks for arithmetic tasks*__
 
 -----
 
