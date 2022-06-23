@@ -1,16 +1,16 @@
-### Neural Arithmetic  
+## Neural Arithmetic  
 __*Understanding neural networks for arithmetic tasks*__
 
 -----
 
-#### Project structure
+### Project structure
 <!---* __*data*__ – train / test / val data for experiments (addition, subtraction, multiplication, division)-->
 * __*src*__ – python source code for experiments
 * __*report*__ – folder with the results of experiments
   
 
-#### Experiments review
-##### Experiment I: MLP with different activations
+### Experiments review
+#### Experiment I: MLP with different activations
 
 <!--- 
 #### Guide
@@ -18,9 +18,7 @@ __*Understanding neural networks for arithmetic tasks*__
 
 Extrapolation failure:
 ![](./report/images/numbers_insight.png)
-<p align="center">Train data: [-5; 5]; Test data: [-20; 20]</p>
-
-##### Experiments II-III: Arithmetic operations
+#### Experiments II-III: Arithmetic operations
 Interpolation RMSE (regarding ReLU baseline)  
 
 |     |Relu6|	None|	NAC|	NALU|
