@@ -11,8 +11,8 @@ __*Understanding neural networks for arithmetic tasks*__
 3. Создайте виртуальную среду: *__python -m venv venv__*
 
 4. Запустите виртуальную среду:  
-    - for cmd Windows: _**.\venv\Scripts\activate (for )**_
-    - for bash Linux: _**venv/bin/activate (for bash Linux)**_
+    - for cmd Windows: _**.\venv\Scripts\activate**_
+    - for bash Linux: _**venv/bin/activate**_
 
 5. Устновите необходимые библиотеки: *__pip install -r requirenments.txt__*
 
