@@ -3,18 +3,30 @@ __*Understanding neural networks for arithmetic tasks*__
 
 -----
 
-### Project structure
-<!---* __*data*__ – train / test / val data for experiments (addition, subtraction, multiplication, division)-->
-* __*src*__ – python source code for experiments
-* __*report*__ – folder with the results of experiments
+### Guide
+1. Скопируйте проект себе на локальную машину
   
+2. Перейдите в корневую директорию проекта
+
+3. Создайте виртуальную среду: *__python -m venv venv__*
+
+4. Запустите виртуальную среду:  
+    - for cmd Windows: _**.\venv\Scripts\activate (for )**_
+    - for bash Linux: _**venv/bin/activate (for bash Linux)**_
+
+5. Устновите необходимые библиотеки: *__pip install -r requirenments.txt__*
+
+6. Запускайте скрипты и эксперементируйте!
+
+
+### Project structure
+ __*src*__ – python source code for experiments  
+ __*report*__ – folder with the results of experiments  
+  
+
 
 ### Experiments review
 #### Experiment I: MLP with different activations
-
-<!--- 
-#### Guide
--->
 
 Extrapolation failure:
 ![](./report/images/numbers_insight.png)
