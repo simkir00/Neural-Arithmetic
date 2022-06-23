@@ -28,8 +28,8 @@ __*Understanding neural networks for arithmetic tasks*__
 ### Experiments review
 #### Experiment I: MLP with different activations
 
-Extrapolation failure:
-![](./report/images/numbers_insight.png)
+Extrapolation failure:  
+<img src="./report/images/numbers_insight.png" width=700>
 #### Experiments II-III: Arithmetic operations
 Interpolation RMSE (regarding ReLU baseline)  
 
